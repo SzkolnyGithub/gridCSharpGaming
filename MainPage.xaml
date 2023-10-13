@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="zadanie13._10Badowski4c.MainPage">
+    <Shell.TitleView>
+        <Label 
+            Text="Sortowanie"
+            FontSize="20"
+            Padding="10"
+            TextColor="white"/>
+    </Shell.TitleView>
+
+    
+
+</ContentPage>
